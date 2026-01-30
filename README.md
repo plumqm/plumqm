@@ -12,7 +12,9 @@
 <h2 align="center">✨ About Me</h2>
 <p align="center">
   <samp>
-    🎓 Computer Science & Technology Major<br>
+    📍 Based in Wuhan, China<br>
+    🎓 Computer Science & Technology Major | Senior Year<br>
+    📚 Preparing for Graduate School<br>
     💡 Passionate about Competitive Programming, Machine Learning & Large Language Models<br>
     💻 Exploring the infinite possibilities of code and AI<br>
     🌱 Currently learning and growing every day<br>
@@ -38,10 +40,9 @@
 <br>
 
 <!-- 语言统计 -->
-<h2 align="center">💻 Most Used Languages & Coding Time</h2>
+<h2 align="center">💻 Most Used Languages</h2>
 <p align="center">
-<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=plumqm&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&border_radius=10" />
-<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumqm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=10" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumqm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=10&card_width=400" />
 </p>
 
 <br>
