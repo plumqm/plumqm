@@ -1,43 +1,89 @@
+<!-- 顶部波浪横幅 -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Hi%20There!%20👋&fontSize=85&fontColor=fff&fontAlign=50&fontAlignY=35&desc=I'm%20plumqm%20|%20Developer%20|%20Creator&descAlign=50&descSize=25&descAlignY=55&animation=fadeIn">
+</p>
 
-<!-- https://github.com/kyechan99/capsule-render -->
+<!-- 动态打字效果 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20plumqm!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8AE0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+🚀;Full+Stack+Developer+%7C+Code+Enthusiast;Always+learning,+always+growing+💡;Let's+build+something+amazing+together!" />
 </p>
- 
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+
+<!-- 关于我 -->
+<h2 align="center">✨ About Me</h2>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+  <samp>
+    🎓 Computer Science & Technology Major<br>
+    💡 Passionate about Competitive Programming, Machine Learning & Large Language Models<br>
+    💻 Exploring the infinite possibilities of code and AI<br>
+    🌱 Currently learning and growing every day<br>
+    🎯 Goal: Write elegant code that makes a difference
+  </samp>
 </p>
- 
+
+<br>
+<!-- 统计数据 -->
+<h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=plumqm&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=plumqm&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=plumqm&theme=github-compact&hide_border=true&area=true">
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=plumqm&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumqm&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+<img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=plumqm&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true&border_radius=10&count_private=true" />
+<img align="center" width="420" src="https://streak-stats.demolab.com?user=plumqm&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true&border_radius=10" />
 </p>
- 
-<!-- https://github.com/badges/shields -->
+
+<br>
+
+<!-- 活动图表 -->
 <p align="center">
-<a href="https://github.com/plumqm"><img src="https://img.shields.io/badge/GitHub-锵锵-blue?logo=github" /></a>
-<a href="https://blog.csdn.net/m0_74183164?type=blog"><img src="https://img.shields.io/badge/CSDN-锵锵-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
- 
-<img src="https://img.shields.io/badge/QQ-2519411138-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=锵锵&abbreviated=true&color=yellow" />
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=plumqm&theme=tokyo-night&hide_border=true&area=true&radius=10">
 </p>
- 
-<!-- https://github.com/kyechan99/capsule-render -->
+
+<br>
+
+<!-- 语言统计 -->
+<h2 align="center">💻 Most Used Languages & Coding Time</h2>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=plumqm&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&border_radius=10" />
+<img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumqm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=10" />
+</p>
+
+<br>
+
+<!-- 技术栈 -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,html,css,js,ts,matlab,md&perline=11&theme=dark" />
+</p>
+
+<br>
+<!-- 联系方式 -->
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
+  <a href="https://github.com/plumqm">
+    <img src="https://img.shields.io/badge/GitHub-plumqm-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://blog.csdn.net/m0_74183164?type=blog">
+    <img src="https://img.shields.io/badge/CSDN-锵锵-FC5531?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/QQ-2519411138-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<!-- 访问统计 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=plumqm&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="访问量统计" />
+  <img src="https://img.shields.io/github/followers/plumqm?label=Followers&style=for-the-badge&color=blue" alt="粉丝数" />
+</p>
+
+<br>
+
+<!-- 底部横幅 -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=40&fontColor=fff&fontAlign=50&fontAlignY=75&desc=May%20your%20code%20compile%20on%20the%20first%20try!%20✨&descAlign=50&descSize=18&descAlignY=88&animation=fadeIn">
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
