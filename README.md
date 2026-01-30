@@ -39,14 +39,6 @@
 
 <br>
 
-<!-- 语言统计 -->
-<h2 align="center">💻 Most Used Languages</h2>
-<p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumqm&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=10&card_width=400" />
-</p>
-
-<br>
-
 <!-- 技术栈 -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
@@ -63,8 +55,8 @@
   <a href="https://blog.csdn.net/m0_74183164?type=blog">
     <img src="https://img.shields.io/badge/CSDN-锵锵-FC5531?style=for-the-badge&logo=c&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/QQ-2519411138-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+  <a href="https://mail.qq.com/">
+    <img src="https://img.shields.io/badge/Email-2519411138@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -84,7 +76,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
