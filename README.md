@@ -8,6 +8,7 @@
     💡 Passionate about Competitive Programming, Machine Learning & Large Language Models<br>
     💻 Exploring the infinite possibilities of code and AI<br>
     🌱 Currently learning and growing every day<br>
+    📝 Check out my <a href="https://blog.csdn.net/m0_74183164?type=blog" style="color: #3F8AE0; text-decoration: none;">recent blog posts</a><br>
     🎯 Goal: Write elegant code that makes a difference
   </samp>
 </p>
