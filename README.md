@@ -53,10 +53,10 @@
 
 <br>
 
-<!-- 访问统计 -->
+<!-- 访问统计
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=plumqm&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="访问量统计" />
   <img src="https://img.shields.io/github/followers/plumqm?label=Followers&style=for-the-badge&color=blue" alt="粉丝数" />
-</p>
+</p> -->
 
 
