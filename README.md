@@ -11,19 +11,6 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Statistics</h2>
-<p align="center">
-<img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=plumqm&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true&border_radius=10&count_private=true" />
-<img align="center" width="420" src="https://streak-stats.demolab.com?user=plumqm&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true&border_radius=10" />
-</p>
-
-<br>
-
-<p align="center">
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=plumqm&theme=tokyo-night&hide_border=true&area=true&radius=10">
-</p>
-
-
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="https://blog.csdn.net/m0_74183164?type=blog">
@@ -35,7 +22,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=plumqm&label=Profile%20Views&color=brightgreen&style=flat-square" alt="访问量统计" />
-</p>
