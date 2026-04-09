@@ -16,9 +16,16 @@
   <a href="https://blog.csdn.net/m0_74183164?type=blog">
     <img src="https://img.shields.io/badge/CSDN-锵锵-FC5531?style=for-the-badge&logo=c&logoColor=white" />
   </a>
+  <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2519411138">
+    <img src="https://img.shields.io/badge/QQ-2519411138-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" />
+  </a>
   <a href="mailto:2519411138@qq.com">
     <img src="https://img.shields.io/badge/Email-2519411138@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=plumqm&label=Profile%20Views&color=brightgreen&style=flat-square" alt="访问量统计" />
+</p>
