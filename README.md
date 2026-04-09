@@ -20,12 +20,8 @@
     <img src="https://img.shields.io/badge/QQ-2519411138-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" />
   </a>
   <a href="mailto:2519411138@qq.com">
-    <img src="https://img.shields.io/badge/Email-2519411138@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-2519411138@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=plumqm&label=Profile%20Views&color=brightgreen&style=flat-square" alt="访问量统计" />
-</p>
