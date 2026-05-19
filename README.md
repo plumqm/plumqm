@@ -4,7 +4,7 @@
     📍 Based in Wuhan & Beijing, China<br>
     🎓 Graduate Student in Computer Science & Technology<br>
     🏆 Competitive Programming Enthusiast | CPP Lover<br>
-    🔍 Researching Algorithms, NLP, AI Agents & Embodied AI<br>
+    <!-- 🔍 Researching Algorithms, NLP, AI Agents & Embodied AI<br>-->
     📝 Check out my <a href="https://blog.csdn.net/m0_74183164?type=blog" style="color: #3F8AE0; text-decoration: none;">recent blog posts</a><br>
   </samp>
 </p>
